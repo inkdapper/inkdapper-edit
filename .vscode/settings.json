@@ -1,0 +1,26 @@
+{
+  "cSpell.words": [
+    "cloudinary",
+    "Compelete",
+    "inkdapper",
+    "Kovil",
+    "Mariyamman",
+    "orderloadingprogress",
+    "Recents",
+    "Relevent",
+    "toastify",
+    "userdetails",
+    "userorders",
+    "uuidv",
+    "Vellore",
+    "Vettuvanam",
+    "wblaj"
+  ],
+  "editor.defaultFormatter": "formulahendry.auto-close-tag",
+  "notebook.defaultFormatter": "formulahendry.auto-close-tag",
+  "javascript.suggest.completeFunctionCalls": true,
+  "typescript.suggest.completeFunctionCalls": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
