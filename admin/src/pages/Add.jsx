@@ -136,7 +136,7 @@ const Add = ({ token }) => {
 
       <div className='w-full'>
         <p className='mb-2'>Product Code</p>
-        <input onChange={(e) => setCode(e.target.value)} value={code} className='w-full max-w-[500px] px-3 py-2 uppercase' type="text" placeholder='Type Product code' required />
+        <input onChange={(e) => setCode(e.target.value)} value={code} className='w-full max-w-[500px] px-3 py-2' type="text" placeholder='Type Product codes' required />
       </div>
 
       <div className='flex flex-col sm:flex-row gap-2 w-full sm:gap-8'>
